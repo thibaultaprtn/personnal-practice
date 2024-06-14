@@ -8,3 +8,5 @@ Another Test
 Another Test 2
 Another Test in the new branch
 Another Test
+
+Test de travail sur une nouvelle branche "test_new_branch"
